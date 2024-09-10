@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/3.webp);
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.bg-color{
+    background-color: azure;
+}
+.bg-color h1{
+    color: red;
+}
+.bg-color p{
+    color: yellow;
+}
